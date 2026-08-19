@@ -1,4 +1,4 @@
-# Day 1 — Blink & Toolchain
+# Day 1 — Blink
 
 First day of the ESP32 course. Goal: get the toolchain working end-to-end (write → upload → verify) using the simplest possible circuit, and learn the one concept that shapes every project after this: **blocking vs. non-blocking code**.
 
